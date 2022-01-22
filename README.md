@@ -1,30 +1,4 @@
 # Iterator
-Es un patrón de comportamiento. [Link descripción](https://sourcemaking.com/design_patterns/iterator)
+Es un patrÃ³n de comportamiento. [Link descripciÃ³n](https://sourcemaking.com/design_patterns/iterator)
 
-Este patron define una capa de abstracción para acceder a una lista que devuelve los items en orden, desde el primero al ultimo.
-
-## Diagrama de clases
-![UML]()
-
-## SOLID
-
-* Single responsibility
-
-
-
-* Open/Closed principle
-
-
-
-* Liskov substitution
-
-
-
-* Interface segregation
-
-
-
-* Dependency inversion
-
-
-
+Este patron define una capa de abstracciÃ³n para acceder a una lista que devuelve los items en orden, desde el primero al ultimo.
